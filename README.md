@@ -6,3 +6,5 @@ tools for decrypting js
 - RSA.min.js: RSA JS file
 - RSAencrypt.min.js: RSA JS file (can be used directly in non-browser environments)
 
+- md5.js: md5 encryption
+
